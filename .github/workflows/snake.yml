@@ -30,3 +30,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+## `$ snake --eat=contributions`
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=renu1803&theme=matrix&style=snake" width="100%" alt="renu1803 contributions, eaten by a snake" />
+</p>
